@@ -19,5 +19,6 @@ function checkLoginState() {
   }
 
   function changeUser(response){
-      
+
+    $('p').hide();
   }
